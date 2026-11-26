@@ -6,11 +6,9 @@
 
 ### One Vision. Multiple Brands.
 
-Building exceptional dining experiences through quality, innovation, and great service.
+Creating exceptional dining experiences through quality, innovation, and great service.
 
 **Medan, Indonesia · Food & Beverage**
-
-[Website](https://bisagroup.co.id) · [GitHub](https://github.com/IT-Bisa-Group)
 
 </div>
 
@@ -20,29 +18,19 @@ Building exceptional dining experiences through quality, innovation, and great s
 
 BISA Group is a growing Food & Beverage company based in Indonesia, bringing together multiple brands under one vision.
 
-We focus on delivering quality products, memorable experiences, and sustainable business growth through innovation and operational excellence.
+We are committed to delivering quality products, memorable experiences, and sustainable business growth.
 
 ## Technology & Innovation
 
-Our technology team develops digital solutions to support business operations, improve efficiency, and drive innovation.
+Our technology team builds digital solutions to support business operations, improve efficiency, and enable continuous innovation.
 
 Our focus areas:
 
-- **Business Applications** — Solutions for daily operations.
-- **Enterprise Systems** — Integrated business management.
-- **Web & Mobile** — Modern digital experiences.
-- **Infrastructure & Integration** — Reliable and connected systems.
-- **Digital Innovation** — Technology-driven business growth.
-
-## Explore Our Projects
-
-Discover our digital initiatives and engineering projects.
-
-<div align="center">
-
-[**Explore All Repositories →**](https://github.com/orgs/IT-Bisa-Group/repositories)
-
-</div>
+- **Business Applications** — Simplifying daily operations.
+- **Enterprise Systems** — Connecting business processes.
+- **Web & Mobile** — Creating modern digital experiences.
+- **System Integration** — Building connected and reliable systems.
+- **Digital Innovation** — Enabling business growth through technology.
 
 ## Our Brand Family
 
@@ -50,7 +38,7 @@ Discover our digital initiatives and engineering projects.
 
 <img src="./assets/bisa-group-member-brands.png" alt="BISA Group Member Brands" width="100%" />
 
-*Multiple brands, one vision, creating experiences together.*
+*Multiple brands, one vision.*
 
 </div>
 
@@ -62,6 +50,6 @@ Discover our digital initiatives and engineering projects.
 
 *Building digital solutions that move our business forward.*
 
-[bisagroup.co.id](https://bisagroup.co.id) · ithelpcenter@bisagroup.co.id
+**ithelpcenter@bisagroup.co.id**
 
 </div>
